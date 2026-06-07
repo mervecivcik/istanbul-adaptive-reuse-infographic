@@ -1,0 +1,1 @@
+# istanbul-adaptive-reuse-infographic
